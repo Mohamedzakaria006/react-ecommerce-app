@@ -1,0 +1,9 @@
+.header {
+  background-color: #90e0ef;
+}
+
+.links li {
+  background-color: #fff;
+  margin: 0 5px 0 5px;
+  border-radius: 5px;
+}

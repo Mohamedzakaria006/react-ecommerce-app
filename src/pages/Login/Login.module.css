@@ -1,0 +1,9 @@
+.formCarrier {
+  position: relative;
+  background-color: #efefef;
+  border-radius: 5px;
+}
+
+.formCarrier:hover {
+  box-shadow: 0 0 5px 0;
+}

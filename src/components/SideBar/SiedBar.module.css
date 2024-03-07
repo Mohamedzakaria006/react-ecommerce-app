@@ -1,0 +1,12 @@
+.sidebar {
+  border-radius: 4px;
+  overflow: scroll;
+  behavior: smooth;
+  -webkit-scrollbar: none;
+  height: 450px;
+}
+
+.sidebar::-webkit-scrollbar {
+  display: none;
+  scroll-behavior: smooth;
+}
